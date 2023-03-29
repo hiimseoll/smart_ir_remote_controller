@@ -65,3 +65,9 @@ Arduino는 소켓에 부착되고, 대부분의 배선은 기판에 납땜이 �
 <br/><br/>
 프리셋에 등록된 신호를 제거하고자 한다면, 해당 프리셋을 화면에 띄운 후 [삭제] 버튼을 누르면 됩니다. <br/>
 이 때 실수로 삭제하는 것을 방지하기 위해 "SURE?"라는 문구가 출력되며, 재차 [삭제] 버튼을 누르면 삭제가 완료됩니다.
+
+## 🍀사진들
+<img src="/images/SIR_img01.png" width="500"><img src="/images/SIR_img02.png" height="500"><img src="/images/SIR_img03.png" width="500" height="500">
+
+
+## 🍀아쉬운 점
