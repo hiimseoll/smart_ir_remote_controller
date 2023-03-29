@@ -22,7 +22,8 @@ Top:<br/>
 ## 회로
 <br/>
 <img src="/images/SIR_fritzing.jpg" width="450" height="300"><br/>
-기본적인 회로의 구성은 위 사진과 같으나,
-Arduino를 쉽게 탈부착 할 수 있도록 IC 소켓을 잘라 PCB 기반에 납땜했습니다.
-<br/><br/>
-또한, IR 송신 거리 증폭을 위해 Darlington Circuit과 배터리 충 방전 모듈, 무선 충전 모듈이 추가되었습니다.
+연결 구성은 위 사진과 같으나,
+Arduino를 쉽게 탈부착 할 수 있도록 IC 소켓을 잘라 PCB 기반에 납땜했으며, <br/>
+ IR 송신 거리 증폭을 위한 Darlington Circuit과 배터리 충 방전 모듈, 무선 충전 모듈이 추가되었습니다.
+ <br/><br/>
+Arduino는 소켓에 부착되고, 대부분의 배선은 기판에 납땜처리 했습니다.
