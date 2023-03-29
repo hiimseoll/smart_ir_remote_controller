@@ -17,4 +17,12 @@ Front:<br/>
 Right Side:<br/>
 &nbsp;&nbsp;&nbsp;Photo Transistor.<br/>
 Top:<br/>
-&nbsp;&nbsp;&nbsp;Power switch, IR LED.<br/>
+&nbsp;&nbsp;&nbsp;Power switch, IR LED.<br/><br/><br/>
+
+## 회로
+<br/>
+<img src="/images/SIR_fritzing.jpg" width="450" height="300"><br/>
+기본적인 회로의 구성은 위 사진과 같으나,
+Arduino를 쉽게 탈부착 할 수 있도록 IC 소켓을 잘라 PCB 기반에 납땜했습니다.
+<br/><br/>
+또한, IR 송신 거리 증폭을 위해 Darlington Circuit과 배터리 충 방전 모듈, 무선 충전 모듈이 추가되었습니다.
