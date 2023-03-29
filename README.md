@@ -4,4 +4,10 @@
 이러한 불편함을 해소하고자 프로젝트를 기획했다.
 
 ## 3D 모델
-![walle_ex](/images/)
+<img src="/images/SIR_3D_01.PNG" width="350" height="300">
+- 리모컨 전면부
+<br/><br/><br/>
+<img src="/images/SIR_3D_02.PNG" width="350" height="300">
+- 무선충전 거치대
+<br/><br/><br/>
+3D 프린팅 모델은 Autodesk Fusion 360 프로그램으로 제작되었습니다.
