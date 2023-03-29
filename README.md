@@ -56,3 +56,8 @@ Arduino는 소켓에 부착되고, 대부분의 배선은 기판에 납땜이 �
 <img src="/images/SIR_ex01.gif" width="500" height="300"><br/>
 <br/><br/>
 <img src="/images/SIR_ex02.gif" width="500" height="300"><br/>
+
+
+<br/><br/><br/><br/>
+
+등록이 끝났다면 해당 프리셋의 앞 부분에 "*"기호가 생긴 것을 확인할 수 있습니다.
