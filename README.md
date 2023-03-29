@@ -70,6 +70,12 @@ Arduino는 소켓에 부착되고, 대부분의 배선은 기판에 납땜이 �
 <img src="/images/SIR_img01.png" width="500"><img src="/images/SIR_img02.png" height="500"><img src="/images/SIR_img03.png" width="500" height="500">
 
 
+## 🍀제작에 참여한 사람들
+설동호: 총괄
+도성훈: 3D 모델링/프린팅
+조성완: 회로
+
+
 ## 🍀아쉬운 점
 
 시간 관계상 데이터베이스 및 웹과의 연동 기능을 포기해 그다지 스마트하지 않다.<br/>
@@ -78,5 +84,5 @@ Arduino는 소켓에 부착되고, 대부분의 배선은 기판에 납땜이 �
 
 인터페이스가 불친절하다.<br/>
 
-
+<br/><br/>
 e-mail: theseol16@gmail.com
